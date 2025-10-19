@@ -1,0 +1,12 @@
+name,product,version
+FGT-HQ,fortios,7.0.12
+FGT-HQ2,fortios,7.2.6
+Proxy-DC1,fortiproxy,7.4.3
+Proxy-DC6,fortiproxy,7.4.3
+FAZ-Core,fortianalyzer,7.2.6
+FMG-Core,fortimanager,7.2.5
+WebGW,fortiweb,7.4.1
+MailGW,fortimail,7.2.2
+AuthN,fortiauthenticator,6.5.3
+SOC-EDR,fortiedr,6.0.4
+VPN-ClientFleet,forticlient,7.0.10
